@@ -1,0 +1,8 @@
+{
+  "name": "moltbook-TOWN",
+  "main": "party/chat.ts",
+  "parties": {
+    "chat": "party/chat.ts"
+  },
+  "compatibilityDate": "2024-01-01"
+}
